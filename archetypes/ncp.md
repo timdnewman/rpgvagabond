@@ -3,7 +3,7 @@ date = '{{ .Date }}'
 draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 tags = []
-categories = ["new campaign"]
+categories = ["New Campaign"]
 +++
 
 ## What is the premise?
