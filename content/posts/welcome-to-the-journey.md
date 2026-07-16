@@ -8,7 +8,7 @@ title = 'Welcome to the Journey'
 
 I'm Tim. My friends and I have been playing RPGs for nearly a decade now. We've been taking it in turns to be the DM, but until now I have only been a player. But now the power is MINE HAHAHAHAHAHAHAHAHAHAHA! \<cackles at the sky\>.
 
-![My beautify d20s, two black, and two matching white. All of them glitter like rainbows in light. Since I'm playing other systems than D&D I don't know how much use they'll be](/images/sweet-die.png)
+![My beautify d20s, two black, and two matching white. All of them glitter like rainbows in light. Since I'm playing other systems than D&D I don't know how much use they'll be](/assets/images/sweet-die.png)
 So this blog is me showing my working, and having somewhere to think about doing better. Broadly speaking I'm going to aim to introduce each campaign, each session and wash-up each campaign and each session. There are going to be a few of them as we have decided that we're going to try some different systems. We've all enjoyed D&D immensely, but I have a whole heap of different ones that we want to try.
 
 In no particular order:
