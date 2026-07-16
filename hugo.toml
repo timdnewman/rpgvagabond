@@ -1,0 +1,37 @@
+baseURL = "https://www.rpgvagbond.co.uk"
+title = "RPG Vagabond"
+theme = "PaperMod"
+locale = "en-GB"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+pagination.pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archives/"
+  weight = 3
