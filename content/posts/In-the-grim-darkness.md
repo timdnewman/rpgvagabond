@@ -19,7 +19,7 @@ The big idea with this campaign is that what you don't choose to stop will happe
 
 None of this is done in huge amounts of detail - no plan survives contact with the players after all - but I think having that map of what will happen if they stop any given pillar will make it fun and easier to seed information about the others. "You find a data slate detailing worrying patterns of Ork movement on the next forge world over".
 
-![A green monitor style map of a hive planet, the details are not clear but the 80s aesthetic is on point.](/images/hive-planet-gardium.png)
+![A green monitor style map of a hive planet, the details are not clear but the 80s aesthetic is on point.](/static/images/hive-planet-gardium.png)
 
 ## What is the system?
 We're going to be playing Wrath and Glory by Cubicle7 [W&G](https://cubicle7games.com/en_GB/our-games/wrath-glory). Its a d6 dice pool game, with special effects on specific die (the Wrath Die). Which can add a cost to a success, a stroke of fortune to a failure or super amp up the effects of a good or bad roll for altogether fail-ier fails, and more spectacular successes.
