@@ -6,7 +6,7 @@ tags = ["Percute Talpam Incident","WH40K"]
 categories = ["New Campaign"]
 +++
 
-The time is near, we're planning to finish out dragon heist campaign this weekend. It's been five years. Love you Mo. There are a lot of reasons its taken that long:
+The time is near, we're planning to finish our dragon heist campaign this weekend. It's been five years. Love you Mo. There are a lot of reasons its taken that long:
 1. Pando madness
 2. People having kids
 3. New jobs

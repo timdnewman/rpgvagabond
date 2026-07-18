@@ -32,8 +32,8 @@ In no particular order:
     - Dune
     - Various world of darkness
 
-The idea is to do them in smaller chunks than 4-5 years which is what our previous campaigns have been. The plan is 3 months and if enjoyment is universal then we carry on. If not we move over to a new system no hard feelings. Its a big cognitive load and my total experience of DMing is three one shots (that admittedly people have **loved**) but a campaign is a different beast. But as we said in my improv days "BALLS OF STEEL* HEAR ME CLANG!" 
+The idea is to do them in smaller chunks than 4-5 years which is what our previous campaigns have been. The plan is 3 months and if enjoyment is universal then we carry on. If not we move over to a new system no hard feelings. Its a big cognitive load and my total experience of DMing is three one shots (that admittedly people have **loved**) but a campaign is a different beast. But as we said in my improv days "BALLS OF STEEL[^1] HEAR ME CLANG!" 
 
 Peace, out. Tim.
 
-\* Other metallic organs are available.
+[^1]: Other metallic organs are available.
