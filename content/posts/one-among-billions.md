@@ -12,7 +12,7 @@ There is a concept in W&G of a framework, a nugget that you can use to guide a g
 <cite>Wrath & Glory: Rulebook 2nd ed.</cite>
 
 ### Framework
-There was an incident. You are the survivors. The takes you from one among trillions to one among billions. The Imperium trains its agents well but they are a small drop in a very large ocean. The ordos of the inquisition need agents a cut above again to fight the darkness without and within. Cyrontius Velinus' view is that by surviving you have proved yourself somewhat. He now requires to prove yourself again. He has many such groups. He will spend your lives as needed.
+There was an incident. You are the survivors. The takes you from one among trillions to one among billions. The Imperium trains its agents well but they are a small drop in a very large ocean. The Ordos of the Inquisition need agents a cut above again to fight the darkness without and within. Cyrontius Velinus' view is that by surviving you have proved yourself somewhat. He now requires to prove yourself again. He has many such groups. He will spend your lives as needed.
 
 ### Patron
 {{< figure src="/images/cyrontius-velinus.png" caption="Cyrontius Velinus " alt="A greyscale drawing of Inquisitor Cyrontius Velinus. He is bald with a scar on his head. His right eye is a bionic. His mouth has been replaced with a rebreather. He is clearly a man who has seen battle. He is wearing some variant of power armour">}}
@@ -23,12 +23,10 @@ There was an incident. You are the survivors. The takes you from one among trill
 
 *He is not unkind, but he is implacable and will brook no insubordination. You WILL investigate what you are told, even in death you will provide valuable information.*
 
+The idea here is that there is a relentless meat grinder quality to the Imperium of Man, you are all tools in the service of the Emperor. Cyrontius is going to have a lot of these teams, survivors of disasters, attacks, or assaults. He is going to send them out and if they fail and die, that tells him there is something dangerous there.
 
-The idea here is that there is a relentless meat grinder quality to the imperium of man, you are all tools in the service of the Emperor. Cyrontius is going to have a lot of these teams, survivors of disasters, attacks
-
+It is also going to mean they get a huge amount of latitude for agents of the Imperium, they are going to get given a selection of possible missions and they will get to choose.
 
 ## Dramatis personae
-
-## What might I do differently?
 
 ## What might be a problem
